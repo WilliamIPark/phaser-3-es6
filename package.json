@@ -1,0 +1,22 @@
+{
+  "name": "phaser-3-es6",
+  "version": "1.0.0",
+  "description": "A boilerplate for starting a phaser 3 project with ES6",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Phaser",
+    "ES6",
+    "Parcel"
+  ],
+  "author": "William Park",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.3.0",
+    "parcel": "^1.9.7",
+    "phaser": "^3.11.0"
+  }
+}

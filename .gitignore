@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+#phaser-3-es6
+.cache
+.vscode
+dist
